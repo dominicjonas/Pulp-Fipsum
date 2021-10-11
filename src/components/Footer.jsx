@@ -6,7 +6,7 @@ const Footer = () => {
       <div>
         <p>code:</p>
         <a
-          href='https://github.com/dominicjonas'
+          href='https://github.com/dominicjonas/Pulp-Fipsum'
           target='_blank'
           rel='noopener noreferrer'
         >
