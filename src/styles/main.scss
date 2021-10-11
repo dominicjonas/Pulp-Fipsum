@@ -102,6 +102,7 @@ body {
 }
 
 footer {
+  width: 100%;
   position: relative;
   padding: 3.5em;
   background: #270505;
@@ -120,5 +121,14 @@ footer {
     &:hover {
       color: #ffab07;
     }
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .header-container img {
+    width: 300px;
+  }
+  .content-container {
+    max-width: 300px;
   }
 }
