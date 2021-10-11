@@ -10,7 +10,7 @@ export const quoteData = [
   'Ima get medieval on your ass.',
   `That's when you know you've found somebody special. When you can just shut the f**k up for a minute and comfortably enjoy the silence.`,
   `What does Marcellus Wallace look like?`,
-  `so he hid it, in the one place he knew he could hide something: his ass. Five long years, he wore this watch up his ass.`,
+  `So he hid it, in the one place he knew he could hide something: his ass. Five long years, he wore this watch up his ass.`,
   `The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.`,
   `Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children.`,
   `And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers, And you will know my name is the Lord when I lay my vengeance upon thee!`,
@@ -19,7 +19,7 @@ export const quoteData = [
   `I hid this uncomfortable hunk of metal up my ass two years.`,
   `Does he look like a bitch?`,
   `Be cool Honey Bunny!`,
-  `Because you are a character doesn't meant the you have character.`,
+  `Because you are a character doesn't mean the you have character.`,
   `What does Marsellus Wallace look like?`,
   `Royale with cheese.`,
   `That's thirty minutes away. I'll be there in ten.`
