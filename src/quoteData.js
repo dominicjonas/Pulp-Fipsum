@@ -17,7 +17,6 @@ export const quoteData = [
   `That's a pretty f**king good milkshake. I don't know if it's worth five dollars but it's pretty f**king good.`,
   `I'm sorry. Did I break your concentration? Oh, you were finished. Well allow me to retort.`,
   `I hid this uncomfortable hunk of metal up my ass two years.`,
-  `Does he look like a bitch?`,
   `Be cool Honey Bunny!`,
   `Because you are a character doesn't mean the you have character.`,
   `What does Marsellus Wallace look like?`,

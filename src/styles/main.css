@@ -137,6 +137,10 @@ footer {
           box-shadow: #26394d 0px 20px 30px 15px;
 }
 
+footer p {
+  margin-left: 3px;
+}
+
 footer a {
   color: #cecdcd;
 }
@@ -158,6 +162,9 @@ footer i:hover {
   }
   .content-container {
     max-width: 300px;
+  }
+  footer {
+    padding: 8rem;
   }
 }
 /*# sourceMappingURL=main.css.map */

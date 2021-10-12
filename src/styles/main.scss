@@ -111,6 +111,9 @@ footer {
   place-content: center;
   height: 100%;
   box-shadow: rgb(38, 57, 77) 0px 20px 30px 15px;
+  p {
+    margin-left: 3px;
+  }
   a {
     color: #cecdcd;
   }
@@ -130,5 +133,8 @@ footer {
   }
   .content-container {
     max-width: 300px;
+  }
+  footer {
+    padding: 8rem;
   }
 }
