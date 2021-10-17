@@ -5,4 +5,5 @@
 
 #### Generate any given number of paragraphs composed of random lines from a certain 90's classic.
 
-![Screenshot 2021-10-17 at 12 12 11](https://user-images.githubusercontent.com/83312425/137624940-103d8dbb-f607-400f-9740-d5254ec6df87.png)
+
+![Screenshot 2021-10-17 at 12 14 01](https://user-images.githubusercontent.com/83312425/137624977-99d242ce-49c5-45c9-ac4f-a20ff8e57a72.png)
